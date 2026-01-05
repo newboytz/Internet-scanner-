@@ -51,10 +51,13 @@ git clone [https://github.com/newboytz/Repo1.git](https://github.com/newboytz/Re
 cd Repo1
 pip install flask
 python app.py
+
 ### 📊 My GitHub Stats
 ![Newboytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=newboytz&show_icons=true&theme=radical)
+
 ### ⚠️ DISCLAIMER
 Matumizi ya zana hizi ni kwa ajili ya **MAFUNZO NA UTAFITI** pekee. Mimi (Newboytz) sihusiki na uharibifu wowote utakaosababishwa na matumizi mabaya ya kodi hizi. Kumbuka, kudukua mfumo bila ruhusa ni kinyume cha sheria.
+
 <blockquote>
   <h4 align="left">⚠️ WARNING / ONYO</h4>
   <p align="left">
