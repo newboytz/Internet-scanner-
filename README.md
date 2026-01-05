@@ -3,13 +3,11 @@
 # 🛡️ CYBERSECURITY - INTERNET SCANNER 💥 
 ### Developer: Newboytz
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Cyber%20Security%20Lab&fontSize=90)
-
-<br>
-
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Cyber%20Security%20Lab&fontSize=90
-
-<br>
+# 🛡️ CYBER SECURITY LAB
+---
+> **Project:** Internet Scanner v1.0
+> **Status:** Operational 🚀
+---
 
 <table>
   <tr>
@@ -27,7 +25,8 @@
 
 <br>
 
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/255626921790)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbBQOfA17EmuEf0t8N1S)
+[![Direct Message](https://img.shields.io/badge/WhatsAppchat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/O7AS4GU7OZOUL1)
 [![Follow Me](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/newboytz)
 
 </div>
