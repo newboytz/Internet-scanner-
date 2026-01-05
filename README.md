@@ -54,20 +54,5 @@ apt upgrade -y
 ---
 
 ## 🐍 Install Python
+```bash
 pkg install python
-
-## 🛠️ Install Git
-pkg install git
-
-## 🌐 Install Flask
-pip install flask
-
-## 📂 Clone Repository
-git clone [https://github.com/newboytz/Repo1.git](https://github.com/newboytz/Repo1.git)
-
-## 📂 Enter Directory
-cd Repo1
-
-## 🚀 Run Project
-python app.py
-
