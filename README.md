@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ CYBERSECURITY - REPO 1
+# 🛡️ CYBERSECURITY - INTERNET SCANNER 💥 
 ### Developer: Newboytz
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
@@ -42,12 +42,16 @@
 - **Python Flask** (Backend)
 ### 🛠️ How to Install
 Run these commands in your **Termux** or terminal:
-### 🛠️ How to Install
-Run these commands in your **Termux** or terminal:
+### 1. Termux Setup
 
 ```bash
-## 🔄 Update System
-pkg update && pkg upgrade
+
+pkg update && pkg upgrade -y
+pkg install nodejs git -y
+apt update -y
+apt upgrade -y
+```
+---
 
 ## 🐍 Install Python
 pkg install python
