@@ -56,3 +56,7 @@ apt upgrade -y
 ## 🐍 Install Python
 ```bash
 pkg install python
+
+---
+```bash
+banan
