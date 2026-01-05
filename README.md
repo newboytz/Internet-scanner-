@@ -74,5 +74,4 @@ cd Internet-scanner-
 python app.py
 ```
 
-![Uploading image_edf5eae5-7dde-4480-8067-983efdd8661d.jpg…]()
 
