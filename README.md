@@ -6,7 +6,7 @@
 ---
 > **Project:** Internet Scanner v1.0
 > **Status:** Operational 🚀
----
+--- 
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
