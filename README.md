@@ -46,3 +46,6 @@ Run these commands in your **Termux** or terminal:
 **1. Update System**
 ```bash
 pkg update && pkg upgrade
+
+**2. Install Python**
+Install Python
