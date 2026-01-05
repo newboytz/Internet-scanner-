@@ -16,6 +16,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=🛡️+INTERNET+SCANNER+V1.0;☠️+Advanced+Port+Scanner;💻+Developed+by+J_Wizzy_Tz;🚀+Next-Gen+Cyber+Security+Lab;🔍+Scanning+...++Secure++...++Protect" alt="Typing Animation">
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/YmZOBDY36S7uM/giphy.gif" 
+       width="230" 
+       height="230" 
+       style="border-radius:15px; box-shadow:0 0 35px #00ff00; border: 2px solid #333;" 
+       alt="Linux Hacking Animation">
+</p>
 
 
 
@@ -40,6 +47,7 @@
   </a>
 </p>
 
+</div> 
 ---
 
 ### 🛠️ Tools Used
