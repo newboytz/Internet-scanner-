@@ -47,5 +47,7 @@ Run these commands in your **Termux** or terminal:
 ```bash
 pkg update && pkg upgrade
 
-**2. Install Python**
-Install Python
+## 🐍 Install Python
+Tumia amri hii kuweka Python kwenye Termux yako:
+```bash
+pkg install python
