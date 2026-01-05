@@ -24,5 +24,5 @@ if __name__ == "__main__":
     if not target:
         target = "google.com"
     port_scanner(target)
-      
+    
       
