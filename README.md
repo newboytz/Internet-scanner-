@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🛡️ CYBERSECURITY - INTERNET SCANNER 💥 
-### Developer: Newboytz
-
-# 🛡️ CYBER SECURITY LAB
+# 🛡️ CYBERSECURITY 
+## ☠️NTERNET SCANNER ☠️
+### Developer: J_Wizzy_Tz🇹🇿
 ---
 > **Project:** Internet Scanner v1.0
 > **Status:** Operational 🚀
@@ -43,12 +42,12 @@ Run these commands in your **Termux** or terminal:
 
 ```bash
 
-pkg update && pkg upgrade -y
-pkg install nodejs git -y
-apt update -y
-apt upgrade -y
+apt update && apt upgrade -y
 ```
----
+### or
+```bash
+pkg update && pkg upgrade
+```
 
 ## 🐍 Install Python
 ```bash
