@@ -24,8 +24,14 @@
 
 <br>
 
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbBQOfA17EmuEf0t8N1S)
-[![Direct Message](https://img.shields.io/badge/WhatsAppchat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/O7AS4GU7OZOUL1)
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbBQOfA17EmuEf0t8N1S" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="340" height="50" alt="Follow my WhatsApp Channel!"/>
+  </a>
+  <br>
+  <b>🔥 Join my WhatsApp Channel for instant updates, exclusive tips, and bot news!</b>
+</p>
+
 [![Follow Me](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/newboytz)
 
 </div>
