@@ -9,7 +9,7 @@
 
 <br>
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Cyber%20Security%20Lab&fontSize=90)
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Cyber%20Security%20Lab&fontSize=90
 
 <br>
 
@@ -43,11 +43,11 @@
 ### 🛠️ How to Install
 Run these commands in your **Termux** or terminal:
 
+### 🛠️ How to Install
+Fuata hatua hizi moja baada ya nyingine:
+
 **1. Update System**
 ```bash
 pkg update && pkg upgrade
-
-## 🐍 Install Python
-Tumia amri hii kuweka Python kwenye Termux yako:
 ```bash
-pkg install python
+https://official-tech-tz.blogspot.com
