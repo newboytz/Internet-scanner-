@@ -3,9 +3,8 @@
 # 🛡️ CYBERSECURITY - INTERNET SCANNER 💥 
 ### Developer: Newboytz
 
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Views](https://img.shields.io/badge/Views-1k-green?style=for-the-badge)
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Cyber%20Security%20Lab&fontSize=90)
+
 
 <br>
 
