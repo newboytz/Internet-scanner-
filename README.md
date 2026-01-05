@@ -42,12 +42,28 @@
 - **Python Flask** (Backend)
 ### 🛠️ How to Install
 Run these commands in your **Termux** or terminal:
-
 ### 🛠️ How to Install
-Fuata hatua hizi moja baada ya nyingine:
+Run these commands in your **Termux** or terminal:
 
-**1. Update System**
 ```bash
+## 🔄 Update System
 pkg update && pkg upgrade
-```bash
-https://official-tech-tz.blogspot.com
+
+## 🐍 Install Python
+pkg install python
+
+## 🛠️ Install Git
+pkg install git
+
+## 🌐 Install Flask
+pip install flask
+
+## 📂 Clone Repository
+git clone [https://github.com/newboytz/Repo1.git](https://github.com/newboytz/Repo1.git)
+
+## 📂 Enter Directory
+cd Repo1
+
+## 🚀 Run Project
+python app.py
+
