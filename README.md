@@ -43,24 +43,6 @@
 ### 🛠️ How to Install
 Run these commands in your **Termux** or terminal:
 
+**1. Update System**
 ```bash
 pkg update && pkg upgrade
-pkg install python
-pkg install git
-git clone [https://github.com/newboytz/Repo1.git](https://github.com/newboytz/Repo1.git)
-cd Repo1
-pip install flask
-python app.py
-
-### 📊 My GitHub Stats
-![Newboytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=newboytz&show_icons=true&theme=radical)
-
-### ⚠️ DISCLAIMER
-Matumizi ya zana hizi ni kwa ajili ya **MAFUNZO NA UTAFITI** pekee. Mimi (Newboytz) sihusiki na uharibifu wowote utakaosababishwa na matumizi mabaya ya kodi hizi. Kumbuka, kudukua mfumo bila ruhusa ni kinyume cha sheria.
-
-<blockquote>
-  <h4 align="left">⚠️ WARNING / ONYO</h4>
-  <p align="left">
-    Kodi hizi ni kwa ajili ya elimu. Usijaribu kutumia kodi hizi kwenye mifumo ambayo huna ruhusa nayo. Usalama huanza na wewe!
-  </p>
-</blockquote>
