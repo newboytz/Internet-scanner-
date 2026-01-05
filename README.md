@@ -56,7 +56,27 @@ apt upgrade -y
 ## 🐍 Install Python
 ```bash
 pkg install python
-
----
+```
+## 🛠️ Install Git
 ```bash
-banan
+pkg install git
+```
+### 🌐 Install Flask
+```bash
+pip install flask
+```
+### 📂 Clone Repository
+```bash
+git clone https://github.com/newboytz/Internet-scanner-.git
+```
+### 📂 Enter Directory
+```bash
+cd Internet-scanner-
+```
+### 🚀 Run Project
+```bash
+python app.py
+```
+
+![Uploading image_edf5eae5-7dde-4480-8067-983efdd8661d.jpg…]()
+
